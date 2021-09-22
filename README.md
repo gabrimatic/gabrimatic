@@ -6,3 +6,4 @@
 - 📫 How to reach me: ©gabrimatic
 - 😄 Pronouns: Soroush, Gabriel
 - ⚡ Fun fact: Life!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrimatic)](https://github.com/gabrimatic/github-readme-stats)
