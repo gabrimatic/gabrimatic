@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 💻 I’m currently working on Flutter projects
-- ⛓️ I’m learning dApps development
-- 🧩 My intrests are photography, philosophy, books and cinema
+- ⛓️ I’m learning Data science
+- 🧩 My intrests are photography, books and cinema
 - 📫 How to reach me: ©gabrimatic
 - 😄 Pronouns: Soroush, Gabriel
 - https://gist.github.com/gabrimatic
