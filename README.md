@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💻 I’m currently working on Flutter projects
-- ⛓️ I’m learning Data science
+- ⛓️ I’m learning dApps development
 - 🧩 My intrests are photography, books and cinema
 - 📫 How to reach me: ©gabrimatic
 - 😄 Pronouns: Soroush, Gabriel
