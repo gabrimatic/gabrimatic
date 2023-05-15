@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 - 💻 I’m currently working on Flutter projects
 - ⛓️ I’m learning Data science
