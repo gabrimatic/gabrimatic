@@ -5,5 +5,5 @@
 - 🧩 My intrests are photography, books and cinema
 - 📫 How to reach me: ©gabrimatic
 - 😄 Pronouns: Soroush, Gabriel
-- 📎 [Published pachages](https://pub.dev/publishers/gabrimatic.info/packages "My pachages") in pub.dev!
+- 📎 [Published Flutter pachages](https://pub.dev/publishers/gabrimatic.info/packages "My pachages")
 - https://gist.github.com/gabrimatic
