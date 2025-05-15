@@ -1,28 +1,20 @@
 ## Hey, I'm Soroush 👋
 
-Senior Mobile Engineer based in Berlin.
+a Senior Mobile Engineer based in Berlin.
 
 ### 💻 Building
 
-* Developing robust **Web3** projects with Flutter.
+* Developing secure **Web3 identity solutions** and advanced **cryptographic protocols**.
 
 ### ⛓️ Exploring
 
 * **MCP server development** and **AI prompt engineering**.
-
-### 🧩 My Passions
-
-* Photography, Books, and Cinema.
 
 ### 📫 Reach Me
 
 * Find me as **@gabrimatic** across platforms.
 * Explore my [published Flutter packages](https://pub.dev/publishers/gabrimatic.info/packages).
 * Browse my code snippets on [Gist](https://gist.github.com/gabrimatic).
-
-### 😄 Pronouns
-
-* Soroush / Gabriel
 
 ### ⚡ Fun Fact
 
