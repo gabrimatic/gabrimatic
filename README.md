@@ -43,7 +43,7 @@ Currently at **Affinidi**, working on the Internet of Trust: verifiable credenti
 
 ## What I'm doing
 
-- Working at Affinidi and City-Flock
+- Building safer digital identity at **Affinidi** and safer everyday journeys at **City-Flock**
 - Building tools for and with local LLMs on MLX
 - Publishing Flutter and Dart packages on [pub.dev](https://pub.dev/publishers/gabrimatic.info/packages)
 - Keeping [gabrimatic.info](https://gabrimatic.info) up to date
