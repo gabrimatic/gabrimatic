@@ -1,8 +1,8 @@
 # Hi, I'm Soroush
 
-📱 **Mobile engineer · Flutter** | 🧠 **On-device AI · MLX**
+Mobile engineer. Flutter, on-device AI, MLX.
 
-> Eight years in mobile, from native Android and iOS to Flutter and everything in between. These days I'm building tools for local LLMs - speech, vision, and language models running on-device with MLX.
+Eight years in mobile. native Android and iOS first, then Flutter. lately I'm building tools for local LLMs running on-device with MLX.
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -16,35 +16,35 @@
 
 ### On-device AI
 
-- 🎙️ **[local-whisper](https://github.com/gabrimatic/local-whisper)** - Double-tap, speak, done. Voice transcription, grammar correction, and TTS, all on-device
-- 👁️ **[eyra](https://github.com/gabrimatic/eyra)** - Point your AI at the screen. Real-time analysis, voice interaction, adaptive model routing
-- 🗣️ **[kokoro-mlx](https://github.com/gabrimatic/kokoro-mlx)** - Kokoro-82M text-to-speech running on-device via MLX
-- 🎧 **[qwen3-asr-mlx](https://github.com/gabrimatic/qwen3-asr-mlx)** - Qwen3-ASR speech-to-text running on-device via MLX
-- 🔮 **[threadstone](https://github.com/gabrimatic/threadstone)** - Offline terminal chat for local LLMs. Self-healing, multi-instance, zero dependencies
-- 💬 **[personal_ollama_cli](https://github.com/gabrimatic/personal_ollama_cli)** - Terminal access to local Ollama models with context and session persistence
+- [local-whisper](https://github.com/gabrimatic/local-whisper) - voice transcription with grammar correction and TTS. all on-device.
+- [eyra](https://github.com/gabrimatic/eyra) - real-time screen analysis with voice interaction. routes between models depending on the task.
+- [kokoro-mlx](https://github.com/gabrimatic/kokoro-mlx) - Kokoro-82M text-to-speech, on-device via MLX.
+- [qwen3-asr-mlx](https://github.com/gabrimatic/qwen3-asr-mlx) - Qwen3-ASR speech-to-text, on-device via MLX.
+- [threadstone](https://github.com/gabrimatic/threadstone) - offline terminal chat for local LLMs. multi-instance, no dependencies.
+- [personal_ollama_cli](https://github.com/gabrimatic/personal_ollama_cli) - terminal access to local Ollama models, with session persistence.
 
 ### Flutter & Dart
 
-- 🔄 **[restart_app](https://github.com/gabrimatic/restart_app)** - The go-to Flutter restart package. One function call, every platform
-- 🔐 **[passes_box](https://github.com/gabrimatic/passes_box)** - Offline password manager. AES-256, biometric auth, zero network
-- 🔑 **[otp_auth](https://github.com/gabrimatic/otp_auth)** - HOTP and TOTP one-time passwords for Dart
-- 🤖 **[ollama_flutter_gui](https://github.com/gabrimatic/ollama_flutter_gui)** - Flutter Web GUI for local Ollama models
-- 🔗 **[graphql_fragment_builder](https://github.com/gabrimatic/graphql_fragment_builder)** - Type-safe GraphQL fragment and query builder for Dart
-- 📅 **[persian_datetimepickers](https://github.com/gabrimatic/persian_datetimepickers)** - Lightweight Persian and Gregorian date/time pickers
-- 📐 **[center_the_widgets](https://github.com/gabrimatic/center_the_widgets)** - Keep mobile layouts intact on web and large screens
-- 🌐 **[flutter_chrome_extension](https://github.com/gabrimatic/flutter_chrome_extension)** - Chrome extension built with Flutter Web
-- 📦 **[More packages →](https://pub.dev/publishers/gabrimatic.info/packages)**
+- [restart_app](https://github.com/gabrimatic/restart_app) - Flutter restart package. one call, every platform.
+- [passes_box](https://github.com/gabrimatic/passes_box) - offline password manager. AES-256, biometric auth, no network.
+- [otp_auth](https://github.com/gabrimatic/otp_auth) - HOTP and TOTP one-time passwords for Dart.
+- [ollama_flutter_gui](https://github.com/gabrimatic/ollama_flutter_gui) - Flutter Web GUI for local Ollama models.
+- [graphql_fragment_builder](https://github.com/gabrimatic/graphql_fragment_builder) - type-safe GraphQL fragment and query builder for Dart.
+- [persian_datetimepickers](https://github.com/gabrimatic/persian_datetimepickers) - Persian and Gregorian date/time pickers.
+- [center_the_widgets](https://github.com/gabrimatic/center_the_widgets) - keeps mobile layouts intact on web and large screens.
+- [flutter_chrome_extension](https://github.com/gabrimatic/flutter_chrome_extension) - Chrome extension built with Flutter Web.
+- [more packages →](https://pub.dev/publishers/gabrimatic.info/packages)
 
 ### MCP Servers
 
-- 🔍 **[mcp-web-search-tool](https://github.com/gabrimatic/mcp-web-search-tool)** - MCP server for real-time web search from any AI model ([demo](https://youtu.be/6jAnjJSCL30))
-- 🧠 **[mcp-prose-memory](https://github.com/gabrimatic/mcp-prose-memory)** - MCP server for prose-based persistent memory with markdown storage
+- [mcp-web-search-tool](https://github.com/gabrimatic/mcp-web-search-tool) - web search from any AI model ([demo](https://youtu.be/6jAnjJSCL30)).
+- [mcp-prose-memory](https://github.com/gabrimatic/mcp-prose-memory) - prose-based persistent memory with markdown storage.
 
-## What I'm Doing
+## What I'm doing
 
-- Building tools for and with local LLMs
-- Publishing Flutter & Dart packages on [pub.dev](https://pub.dev/publishers/gabrimatic.info/packages)
-- Keeping my portfolio website [gabrimatic.info](https://gabrimatic.info) up to date
+- building tools for and with local LLMs
+- publishing Flutter and Dart packages on [pub.dev](https://pub.dev/publishers/gabrimatic.info/packages)
+- keeping [gabrimatic.info](https://gabrimatic.info) up to date
 
 ## Connect
 
@@ -56,17 +56,17 @@
 [![Gists](https://img.shields.io/badge/-Gists-181717?style=flat-square&logo=github&logoColor=white)](https://gist.github.com/gabrimatic)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrimatic)
 
-## Philosophy
+## Notes
 
-> Technology has always been more than a career for me. It's a way of thinking. Learning is a constant. Every new tool, language, or idea is an invitation to explore. What matters most is the outcome: tools that solve real problems, products that make someone's life easier, things that actually work.
+> I like building things that work. mostly that's it.
 
 ---
 
 <details>
 <summary>Beyond code</summary>
 
-- 📷 Behind a camera when I'm not behind a keyboard
-- 📚 Spent two years working in bookstores. Never stopped reading.
-- 🎬 Cinephile. Film theory, storytelling craft, the conversations after the credits
+- photography, when I'm away from the keyboard
+- worked in bookstores for two years. still read a lot.
+- films, mostly. and the conversations after.
 
 </details>
