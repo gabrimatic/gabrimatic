@@ -2,7 +2,7 @@
 
 📱 **Mobile engineer · Flutter** | 🧠 **On-device AI · MLX**
 
-> Eight years in mobile, from native Android and iOS to Flutter and everything in between. These days I build tools that bring local language, speech, and vision models to life on-device.
+> Eight years in mobile, from native Android and iOS to Flutter and everything in between. These days I'm building tools for local LLMs - speech, vision, and language models running on-device with MLX.
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -42,13 +42,9 @@
 
 ## What I'm Doing
 
-- Building tools for and with local LLMs — language, speech, and vision models running on-device
+- Building tools for and with local LLMs - language, speech, and vision models running on-device
 - Shipping Flutter & Dart packages on [pub.dev](https://pub.dev/publishers/gabrimatic.info/packages)
-- [gabrimatic.info](https://gabrimatic.info) — personal website
-
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/gabrimatic)
+- [gabrimatic.info](https://gabrimatic.info) - personal website
 
 ## Connect
 
