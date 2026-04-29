@@ -1,8 +1,8 @@
-# Hi, I'm Soroush 👋
+# Hi, I'm Soroush
 
-📱 **Mobile engineer** | 🧠 **On-device AI** | 🎯 **Flutter & MLX**
+📱 **Mobile engineer · Flutter** | 🧠 **On-device AI · MLX**
 
-> Seven years deep in mobile, from native Android and iOS to Flutter and everything in between. These days I'm porting speech, vision, and language models to run on-device via MLX.
+> Eight years in mobile, from native Android and iOS to Flutter and everything in between. These days I build tools that bring local language, speech, and vision models to life on-device.
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -42,9 +42,9 @@
 
 ## What I'm Doing
 
-- Porting AI models to run on-device via MLX
-- Writing at [gabrimatic.info](https://gabrimatic.info)
-- Shipping packages on [pub.dev](https://pub.dev/publishers/gabrimatic.info/packages)
+- Building tools for and with local LLMs — language, speech, and vision models running on-device
+- Shipping Flutter & Dart packages on [pub.dev](https://pub.dev/publishers/gabrimatic.info/packages)
+- [gabrimatic.info](https://gabrimatic.info) — personal website
 
 ## GitHub Activity
 
@@ -69,7 +69,7 @@
 <details>
 <summary>Beyond code</summary>
 
-- 📷 Behind a camera when not behind a keyboard
+- 📷 Behind a camera when I'm not behind a keyboard
 - 📚 Spent two years working in bookstores. Never stopped reading.
 - 🎬 Cinephile. Film theory, storytelling craft, the conversations after the credits
 
