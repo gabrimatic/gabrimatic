@@ -2,7 +2,7 @@
 
 Berlin-based mobile engineer and tech lead. Eight years in mobile, native Android and iOS first, then Flutter since 2019. Ship across Android, iOS, Web, and Desktop.
 
-Currently Mobile Tech Lead at **Affinidi**, working on the Internet of Trust: verifiable credentials, DIDComm, an agentic-AI trust gateway, and Dart SDKs for mobile. Also tech lead at **City-Flock**, a community safety app that matches people travelling in the same direction to make everyday journeys safer. Most evenings I'm building local-LLM tools with MLX.
+Currently at **Affinidi**, working on the Internet of Trust: verifiable credentials, DIDComm, an agentic-AI trust gateway, and Dart SDKs for mobile. Also at **City-Flock**, a community safety app that matches people travelling in the same direction to make everyday journeys safer. Most evenings I'm building local-LLM tools with MLX.
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -43,7 +43,7 @@ Currently Mobile Tech Lead at **Affinidi**, working on the Internet of Trust: ve
 
 ## What I'm doing
 
-- Mobile Tech Lead at Affinidi, Tech Lead at City-Flock
+- Working at Affinidi and City-Flock
 - Building tools for and with local LLMs on MLX
 - Publishing Flutter and Dart packages on [pub.dev](https://pub.dev/publishers/gabrimatic.info/packages)
 - Keeping [gabrimatic.info](https://gabrimatic.info) up to date
