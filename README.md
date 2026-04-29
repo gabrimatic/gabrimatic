@@ -16,40 +16,40 @@
 
 ### On-device AI
 
-- 🎙️ **[local-whisper](https://github.com/gabrimatic/local-whisper)** — Double-tap, speak, done. Voice transcription, grammar correction, and TTS, all on-device
-- 👁️ **[eyra](https://github.com/gabrimatic/eyra)** — Point your AI at the screen. Real-time analysis, voice interaction, adaptive model routing
-- 🗣️ **[kokoro-mlx](https://github.com/gabrimatic/kokoro-mlx)** — Kokoro-82M text-to-speech running on-device via MLX
-- 🎧 **[qwen3-asr-mlx](https://github.com/gabrimatic/qwen3-asr-mlx)** — Qwen3-ASR speech-to-text running on-device via MLX
-- 🔮 **[threadstone](https://github.com/gabrimatic/threadstone)** — Offline terminal chat for local LLMs. Self-healing, multi-instance, zero dependencies
-- 💬 **[personal_ollama_cli](https://github.com/gabrimatic/personal_ollama_cli)** — Terminal access to local Ollama models with context and session persistence
+- 🎙️ **[local-whisper](https://github.com/gabrimatic/local-whisper)** - Double-tap, speak, done. Voice transcription, grammar correction, and TTS, all on-device
+- 👁️ **[eyra](https://github.com/gabrimatic/eyra)** - Point your AI at the screen. Real-time analysis, voice interaction, adaptive model routing
+- 🗣️ **[kokoro-mlx](https://github.com/gabrimatic/kokoro-mlx)** - Kokoro-82M text-to-speech running on-device via MLX
+- 🎧 **[qwen3-asr-mlx](https://github.com/gabrimatic/qwen3-asr-mlx)** - Qwen3-ASR speech-to-text running on-device via MLX
+- 🔮 **[threadstone](https://github.com/gabrimatic/threadstone)** - Offline terminal chat for local LLMs. Self-healing, multi-instance, zero dependencies
+- 💬 **[personal_ollama_cli](https://github.com/gabrimatic/personal_ollama_cli)** - Terminal access to local Ollama models with context and session persistence
 
 ### Flutter & Dart
 
-- 🔄 **[restart_app](https://github.com/gabrimatic/restart_app)** — The go-to Flutter restart package. One function call, every platform
-- 🔐 **[passes_box](https://github.com/gabrimatic/passes_box)** — Offline password manager. AES-256, biometric auth, zero network
-- 🔑 **[otp_auth](https://github.com/gabrimatic/otp_auth)** — HOTP and TOTP one-time passwords for Dart
-- 🤖 **[ollama_flutter_gui](https://github.com/gabrimatic/ollama_flutter_gui)** — Flutter Web GUI for local Ollama models
-- 🔗 **[graphql_fragment_builder](https://github.com/gabrimatic/graphql_fragment_builder)** — Type-safe GraphQL fragment and query builder for Dart
-- 📅 **[persian_datetimepickers](https://github.com/gabrimatic/persian_datetimepickers)** — Lightweight Persian and Gregorian date/time pickers
-- 📐 **[center_the_widgets](https://github.com/gabrimatic/center_the_widgets)** — Keep mobile layouts intact on web and large screens
-- 🌐 **[flutter_chrome_extension](https://github.com/gabrimatic/flutter_chrome_extension)** — Chrome extension built with Flutter Web
+- 🔄 **[restart_app](https://github.com/gabrimatic/restart_app)** - The go-to Flutter restart package. One function call, every platform
+- 🔐 **[passes_box](https://github.com/gabrimatic/passes_box)** - Offline password manager. AES-256, biometric auth, zero network
+- 🔑 **[otp_auth](https://github.com/gabrimatic/otp_auth)** - HOTP and TOTP one-time passwords for Dart
+- 🤖 **[ollama_flutter_gui](https://github.com/gabrimatic/ollama_flutter_gui)** - Flutter Web GUI for local Ollama models
+- 🔗 **[graphql_fragment_builder](https://github.com/gabrimatic/graphql_fragment_builder)** - Type-safe GraphQL fragment and query builder for Dart
+- 📅 **[persian_datetimepickers](https://github.com/gabrimatic/persian_datetimepickers)** - Lightweight Persian and Gregorian date/time pickers
+- 📐 **[center_the_widgets](https://github.com/gabrimatic/center_the_widgets)** - Keep mobile layouts intact on web and large screens
+- 🌐 **[flutter_chrome_extension](https://github.com/gabrimatic/flutter_chrome_extension)** - Chrome extension built with Flutter Web
 - 📦 **[More packages →](https://pub.dev/publishers/gabrimatic.info/packages)**
 
 ### MCP Servers
 
-- 🔍 **[mcp-web-search-tool](https://github.com/gabrimatic/mcp-web-search-tool)** — MCP server for real-time web search from any AI model ([demo](https://youtu.be/6jAnjJSCL30))
-- 🧠 **[mcp-prose-memory](https://github.com/gabrimatic/mcp-prose-memory)** — MCP server for prose-based persistent memory with markdown storage
+- 🔍 **[mcp-web-search-tool](https://github.com/gabrimatic/mcp-web-search-tool)** - MCP server for real-time web search from any AI model ([demo](https://youtu.be/6jAnjJSCL30))
+- 🧠 **[mcp-prose-memory](https://github.com/gabrimatic/mcp-prose-memory)** - MCP server for prose-based persistent memory with markdown storage
 
 ## What I'm Doing
 
-- Building tools for and with local LLMs - language, speech, and vision models running on-device
-- Shipping Flutter & Dart packages on [pub.dev](https://pub.dev/publishers/gabrimatic.info/packages)
-- [gabrimatic.info](https://gabrimatic.info) - personal website
+- Building tools for and with local LLMs
+- Publishing Flutter & Dart packages on [pub.dev](https://pub.dev/publishers/gabrimatic.info/packages)
+- Keeping my portfolio website [gabrimatic.info](https://gabrimatic.info) up to date
 
 ## Connect
 
-[![Website](https://img.shields.io/badge/-gabrimatic.info-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://gabrimatic.info)
-[![LinkedIn](https://img.shields.io/badge/-Soroush_Yousefpour-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrimatic)
+[![Website](https://img.shields.io/badge/-gabrimatic.info-FF5722?style=flat-square&logo=About.me&logoColor=white)](https://gabrimatic.info)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrimatic)
 [![Twitter](https://img.shields.io/badge/-@gabrimatic-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/gabrimatic)
 [![Medium](https://img.shields.io/badge/-@gabrimatic-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@gabrimatic)
 [![pub.dev](https://img.shields.io/badge/-pub.dev-02569B?style=flat-square&logo=dart&logoColor=white)](https://pub.dev/publishers/gabrimatic.info/packages)
