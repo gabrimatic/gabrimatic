@@ -1,6 +1,6 @@
 # Hi, I'm Soroush
 
-Berlin-based mobile engineer and tech lead. Eight years in mobile, native Android and iOS first, then Flutter since 2019. Ship across Android, iOS, Web, and Desktop.
+Mobile engineer and tech lead. Eight years in mobile, native Android and iOS first, then Flutter since 2019. Ship across Android, iOS, Web, and Desktop.
 
 Currently at **Affinidi**, working on the Internet of Trust: verifiable credentials, DIDComm, an agentic-AI trust gateway, and Dart SDKs. Also at **City-Flock**, a community safety app that matches people travelling in the same direction to make everyday journeys safer. Most evenings I'm building local-LLM tools.
 
