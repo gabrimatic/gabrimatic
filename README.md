@@ -1,8 +1,8 @@
 # Hi, I'm Soroush
 
-Mobile engineer and tech lead. Eight years in mobile, native Android and iOS first, then Flutter since 2019. Ship across Android, iOS, Web, and Desktop.
+Mobile engineer and tech lead. I build and ship across Android, iOS, web, and desktop. Eight years in mobile: native Android and iOS first, Flutter since 2019.
 
-Currently at **Affinidi**, working on the Internet of Trust: verifiable credentials, DIDComm, an agentic-AI trust gateway, and Dart SDKs. Also at **City-Flock**, a community safety app that matches people travelling in the same direction to make everyday journeys safer. Most evenings I'm building local-LLM tools.
+Currently at **[Affinidi](https://www.affinidi.com/)**, working on the Internet of Trust: verifiable credentials, DIDComm, an agentic AI trust gateway, and Dart SDKs. Also at **[City-Flock](https://www.city-flock.de/en)**, a community safety app that matches people travelling in the same direction to make everyday journeys safer. Most evenings I'm building local-LLM tools.
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -17,22 +17,22 @@ Currently at **Affinidi**, working on the Internet of Trust: verifiable credenti
 
 ### On-device AI
 
-- **[local-whisper](https://github.com/gabrimatic/local-whisper)** - voice transcription with grammar correction and TTS, all on-device.
-- **[eyra](https://github.com/gabrimatic/eyra)** - real-time screen analysis with voice interaction. routes between models depending on the task.
+- **[local-whisper](https://github.com/gabrimatic/local-whisper)** - on-device voice transcription with grammar correction and TTS.
+- **[eyra](https://github.com/gabrimatic/eyra)** - real-time screen analysis with voice interaction. Routes between models depending on the task.
 - **[kokoro-mlx](https://github.com/gabrimatic/kokoro-mlx)** - Kokoro-82M text-to-speech running on-device via MLX.
 - **[qwen3-asr-mlx](https://github.com/gabrimatic/qwen3-asr-mlx)** - Qwen3-ASR speech-to-text running on-device via MLX.
-- **[threadstone](https://github.com/gabrimatic/threadstone)** - offline terminal chat for local LLMs. multi-instance, no dependencies.
+- **[threadstone](https://github.com/gabrimatic/threadstone)** - offline terminal chat for local LLMs. Multi-instance, no dependencies.
 - **[personal_ollama_cli](https://github.com/gabrimatic/personal_ollama_cli)** - terminal access to local Ollama models with context and session persistence.
 
 ### Flutter & Dart
 
-- **[restart_app](https://github.com/gabrimatic/restart_app)** - Flutter app restart package. one function call, every platform.
+- **[restart_app](https://github.com/gabrimatic/restart_app)** - Flutter app restart package. One function call across Android, iOS, Web, macOS, Linux, and Windows.
 - **[passes_box](https://github.com/gabrimatic/passes_box)** - offline password manager. AES-256, biometric auth, no network.
 - **[otp_auth](https://github.com/gabrimatic/otp_auth)** - HOTP and TOTP one-time passwords for Dart.
 - **[ollama_flutter_gui](https://github.com/gabrimatic/ollama_flutter_gui)** - Flutter Web GUI for local Ollama models.
 - **[graphql_fragment_builder](https://github.com/gabrimatic/graphql_fragment_builder)** - type-safe GraphQL fragment and query builder for Dart.
 - **[persian_datetimepickers](https://github.com/gabrimatic/persian_datetimepickers)** - Persian and Gregorian date/time pickers.
-- **[center_the_widgets](https://github.com/gabrimatic/center_the_widgets)** - keeps mobile layouts intact on web and large screens.
+- **[center_the_widgets](https://github.com/gabrimatic/center_the_widgets)** - keeps mobile-first layouts intact on web and large screens.
 - **[flutter_chrome_extension](https://github.com/gabrimatic/flutter_chrome_extension)** - Chrome extension built with Flutter Web.
 - **[more packages →](https://pub.dev/publishers/gabrimatic.info/packages)**
 
@@ -41,9 +41,9 @@ Currently at **Affinidi**, working on the Internet of Trust: verifiable credenti
 - **[mcp-web-search-tool](https://github.com/gabrimatic/mcp-web-search-tool)** - MCP server for real-time web search from any AI model ([demo](https://youtu.be/6jAnjJSCL30)).
 - **[mcp-prose-memory](https://github.com/gabrimatic/mcp-prose-memory)** - MCP server for prose-based persistent memory with markdown storage.
 
-## What I'm doing
+## Now
 
-- Building safer digital identity at **Affinidi** and safer everyday journeys at **City-Flock**
+- Building safer digital identity at **[Affinidi](https://www.affinidi.com/)** and safer everyday journeys at **[City-Flock](https://www.city-flock.de/en)**
 - Building tools for and with local LLMs on MLX
 - Publishing Flutter and Dart packages on [pub.dev](https://pub.dev/publishers/gabrimatic.info/packages)
 - Keeping [gabrimatic.info](https://gabrimatic.info) up to date
@@ -58,13 +58,8 @@ Currently at **Affinidi**, working on the Internet of Trust: verifiable credenti
 [![Gists](https://img.shields.io/badge/-Gists-181717?style=flat-square&logo=github&logoColor=white)](https://gist.github.com/gabrimatic)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrimatic)
 
----
-
-<details>
-<summary>Beyond code</summary>
+## Beyond code
 
 - Photography, when I'm away from the keyboard.
-- Worked in bookstores for two years. Still read a lot.
+- Worked in bookstores for two years. Books stayed with me.
 - Cinema. Film theory and storytelling.
-
-</details>
