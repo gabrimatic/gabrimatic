@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/gabrimatic-banner-1500x500.png" alt="@Gabrimatic banner" width="100%">
+</p>
+
 # Hi, I'm Soroush
 
 Mobile engineer and tech lead. I build and ship across Android, iOS, web, and desktop. Eight years in mobile: native Android and iOS first, Flutter since 2019.
