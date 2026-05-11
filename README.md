@@ -4,9 +4,11 @@
 
 # Hi, I'm Soroush
 
-I build mobile products, local AI tools, and Flutter/Dart packages. I started with native Android and iOS, and I have been shipping Flutter in production since 2019.
+Mobile engineer and tech lead. I ship across Android, iOS, web, and desktop. Native Android and iOS came first; Flutter has been part of my production work since 2019.
 
-At **[Affinidi](https://www.affinidi.com/)**, I work on the Internet of Trust: verifiable credentials, DIDComm, an agentic AI trust gateway, and Dart SDKs. At **[City-Flock](https://www.city-flock.de/en)**, I build a community safety app that matches people travelling in the same direction so everyday journeys feel less isolated. Most evenings, the work turns back into local LLMs, voice, and on-device inference.
+At **[Affinidi](https://www.affinidi.com/)**, I work on the Internet of Trust: verifiable credentials, DIDComm, an agentic AI trust gateway, and Dart SDKs. At **[City-Flock](https://www.city-flock.de/en)**, I build a community safety app that matches people travelling in the same direction to make everyday journeys safer.
+
+Most evenings, I build local LLM tools: MLX experiments, on-device voice, terminal tools, and small systems that keep inference close to the machine.
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -47,7 +49,7 @@ At **[Affinidi](https://www.affinidi.com/)**, I work on the Internet of Trust: v
 
 ## Now
 
-- Shipping trust and identity work at **[Affinidi](https://www.affinidi.com/)** and community safety work at **[City-Flock](https://www.city-flock.de/en)**
+- Building safer digital identity at **[Affinidi](https://www.affinidi.com/)** and safer everyday journeys at **[City-Flock](https://www.city-flock.de/en)**
 - Building local AI tools around MLX, voice, and on-device inference
 - Maintaining Flutter and Dart packages on [pub.dev](https://pub.dev/publishers/gabrimatic.info/packages)
 - Keeping [gabrimatic.info](https://gabrimatic.info) as the public home for the work
