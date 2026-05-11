@@ -4,9 +4,9 @@
 
 # Hi, I'm Soroush
 
-Mobile engineer and tech lead. I build and ship across Android, iOS, web, and desktop. Eight years in mobile: native Android and iOS first, Flutter since 2019.
+I build mobile products, local AI tools, and Flutter/Dart packages. I started with native Android and iOS, and I have been shipping Flutter in production since 2019.
 
-Currently at **[Affinidi](https://www.affinidi.com/)**, working on the Internet of Trust: verifiable credentials, DIDComm, an agentic AI trust gateway, and Dart SDKs. Also at **[City-Flock](https://www.city-flock.de/en)**, a community safety app that matches people travelling in the same direction to make everyday journeys safer. Most evenings I'm building local-LLM tools.
+At **[Affinidi](https://www.affinidi.com/)**, I work on the Internet of Trust: verifiable credentials, DIDComm, an agentic AI trust gateway, and Dart SDKs. At **[City-Flock](https://www.city-flock.de/en)**, I build a community safety app that matches people travelling in the same direction so everyday journeys feel less isolated. Most evenings, the work turns back into local LLMs, voice, and on-device inference.
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -17,40 +17,40 @@ Currently at **[Affinidi](https://www.affinidi.com/)**, working on the Internet 
 ![MLX](https://img.shields.io/badge/-MLX-000000?style=flat-square&logo=apple&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-## Projects
+## What I Build
 
 ### On-device AI
 
-- **[local-whisper](https://github.com/gabrimatic/local-whisper)** - on-device voice transcription with grammar correction and TTS.
-- **[eyra](https://github.com/gabrimatic/eyra)** - real-time screen analysis with voice interaction. Routes between models depending on the task.
+- **[local-whisper](https://github.com/gabrimatic/local-whisper)** - on-device voice transcription with grammar correction and TTS for private voice workflows.
+- **[eyra](https://github.com/gabrimatic/eyra)** - real-time screen analysis with voice interaction. It routes between models when the task changes.
 - **[kokoro-mlx](https://github.com/gabrimatic/kokoro-mlx)** - Kokoro-82M text-to-speech running on-device via MLX.
 - **[qwen3-asr-mlx](https://github.com/gabrimatic/qwen3-asr-mlx)** - Qwen3-ASR speech-to-text running on-device via MLX.
-- **[threadstone](https://github.com/gabrimatic/threadstone)** - offline terminal chat for local LLMs. Multi-instance, no dependencies.
-- **[personal_ollama_cli](https://github.com/gabrimatic/personal_ollama_cli)** - terminal access to local Ollama models with context and session persistence.
+- **[threadstone](https://github.com/gabrimatic/threadstone)** - offline terminal chat for local LLMs. Multiple instances, no dependencies.
+- **[personal_ollama_cli](https://github.com/gabrimatic/personal_ollama_cli)** - terminal sessions for local Ollama models, with context and persistence.
 
 ### Flutter & Dart
 
-- **[restart_app](https://github.com/gabrimatic/restart_app)** - Flutter app restart package. One function call across Android, iOS, Web, macOS, Linux, and Windows.
-- **[passes_box](https://github.com/gabrimatic/passes_box)** - offline password manager. AES-256, biometric auth, no network.
+- **[restart_app](https://github.com/gabrimatic/restart_app)** - restart Flutter apps from one call across Android, iOS, Web, macOS, Linux, and Windows.
+- **[passes_box](https://github.com/gabrimatic/passes_box)** - offline password manager with AES-256 and biometric auth. No network path.
 - **[otp_auth](https://github.com/gabrimatic/otp_auth)** - HOTP and TOTP one-time passwords for Dart.
 - **[ollama_flutter_gui](https://github.com/gabrimatic/ollama_flutter_gui)** - Flutter Web GUI for local Ollama models.
 - **[graphql_fragment_builder](https://github.com/gabrimatic/graphql_fragment_builder)** - type-safe GraphQL fragment and query builder for Dart.
 - **[persian_datetimepickers](https://github.com/gabrimatic/persian_datetimepickers)** - Persian and Gregorian date/time pickers.
-- **[center_the_widgets](https://github.com/gabrimatic/center_the_widgets)** - keeps mobile-first layouts intact on web and large screens.
+- **[center_the_widgets](https://github.com/gabrimatic/center_the_widgets)** - keeps mobile-first layouts readable on web and large screens.
 - **[flutter_chrome_extension](https://github.com/gabrimatic/flutter_chrome_extension)** - Chrome extension built with Flutter Web.
-- **[more packages →](https://pub.dev/publishers/gabrimatic.info/packages)**
+- **[more packages](https://pub.dev/publishers/gabrimatic.info/packages)**
 
 ### MCP Servers
 
-- **[mcp-web-search-tool](https://github.com/gabrimatic/mcp-web-search-tool)** - MCP server for real-time web search from any AI model ([demo](https://youtu.be/6jAnjJSCL30)).
-- **[mcp-prose-memory](https://github.com/gabrimatic/mcp-prose-memory)** - MCP server for prose-based persistent memory with markdown storage.
+- **[mcp-web-search-tool](https://github.com/gabrimatic/mcp-web-search-tool)** - MCP server that lets AI models search the web in real time ([demo](https://youtu.be/6jAnjJSCL30)).
+- **[mcp-prose-memory](https://github.com/gabrimatic/mcp-prose-memory)** - MCP server for persistent memory backed by Markdown files.
 
 ## Now
 
-- Building safer digital identity at **[Affinidi](https://www.affinidi.com/)** and safer everyday journeys at **[City-Flock](https://www.city-flock.de/en)**
-- Building tools for and with local LLMs on MLX
-- Publishing Flutter and Dart packages on [pub.dev](https://pub.dev/publishers/gabrimatic.info/packages)
-- Keeping [gabrimatic.info](https://gabrimatic.info) up to date
+- Shipping trust and identity work at **[Affinidi](https://www.affinidi.com/)** and community safety work at **[City-Flock](https://www.city-flock.de/en)**
+- Building local AI tools around MLX, voice, and on-device inference
+- Maintaining Flutter and Dart packages on [pub.dev](https://pub.dev/publishers/gabrimatic.info/packages)
+- Keeping [gabrimatic.info](https://gabrimatic.info) as the public home for the work
 
 ## Connect
 
@@ -64,6 +64,6 @@ Currently at **[Affinidi](https://www.affinidi.com/)**, working on the Internet 
 
 ## Beyond code
 
-- Photography, when I'm away from the keyboard.
+- Photography, mostly when I leave the keyboard.
 - Worked in bookstores for two years. Books stayed with me.
 - Cinema. Film theory and storytelling.
