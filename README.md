@@ -24,7 +24,8 @@ Most evenings, I build local LLM tools: MLX experiments, on-device voice, termin
 ### On-device AI
 
 - **[local-whisper](https://github.com/gabrimatic/local-whisper)** - on-device voice transcription with grammar correction and TTS for private voice workflows.
-- **[eyra](https://github.com/gabrimatic/eyra)** - real-time screen analysis with voice interaction. It routes between models when the task changes.
+- **[ocr-capture](https://github.com/gabrimatic/ocr-capture)** - select any screen region, get the text on your clipboard. Apple Vision OCR, fully on-device.
+- **eyra** - real-time screen analysis with voice interaction. It routes between models when the task changes. Not public yet.
 - **[kokoro-mlx](https://github.com/gabrimatic/kokoro-mlx)** - Kokoro-82M text-to-speech running on-device via MLX.
 - **[qwen3-asr-mlx](https://github.com/gabrimatic/qwen3-asr-mlx)** - Qwen3-ASR speech-to-text running on-device via MLX.
 - **[threadstone](https://github.com/gabrimatic/threadstone)** - offline terminal chat for local LLMs. Multiple instances, no dependencies.
@@ -42,10 +43,13 @@ Most evenings, I build local LLM tools: MLX experiments, on-device voice, termin
 - **[flutter_chrome_extension](https://github.com/gabrimatic/flutter_chrome_extension)** - Chrome extension built with Flutter Web.
 - **[more packages](https://pub.dev/publishers/gabrimatic.info/packages)**
 
-### MCP Servers
+### Agents & MCP
 
+- **[tmux-mcp](https://github.com/gabrimatic/tmux-mcp)** - tmux-backed MCP server that gives AI agents a persistent, human-attachable terminal.
 - **[mcp-web-search-tool](https://github.com/gabrimatic/mcp-web-search-tool)** - MCP server that lets AI models search the web in real time ([demo](https://youtu.be/6jAnjJSCL30)).
-- **[mcp-prose-memory](https://github.com/gabrimatic/mcp-prose-memory)** - MCP server for persistent memory backed by Markdown files.
+- **[mcp-prose-memory](https://github.com/gabrimatic/mcp-prose-memory)** - MCP server for persistent memory with JSON storage and atomic fact operations.
+- **[copilot-goal-system](https://github.com/gabrimatic/copilot-goal-system)** - goal mode for GitHub Copilot CLI: persisted state, drift blocking, proof-based completion.
+- **[agent-flight-recorder](https://github.com/gabrimatic/agent-flight-recorder)** - black-box recorder for coding-agent code changes.
 
 ## Now
 
