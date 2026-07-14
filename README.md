@@ -51,7 +51,25 @@ Most evenings, I build local LLM tools: MLX experiments, on-device voice, termin
 - **[copilot-goal-system](https://github.com/gabrimatic/copilot-goal-system)** - goal mode for GitHub Copilot CLI: persisted state, drift blocking, proof-based completion.
 - **[agent-flight-recorder](https://github.com/gabrimatic/agent-flight-recorder)** - black-box recorder for coding-agent code changes.
 
+## Upstream
+
+Fixes I've landed in the tools I build on.
+
+Merged into **[flutter/flutter](https://github.com/flutter/flutter/pulls?q=is%3Apr+author%3Agabrimatic+is%3Amerged)**:
+
+- [#185793](https://github.com/flutter/flutter/pull/185793) - fix an OverlayPortal owner-mismatch crash inside deferred-mount parents like Table
+- [#185875](https://github.com/flutter/flutter/pull/185875) - stop the Cubic transform looping on out-of-range input
+- [#186116](https://github.com/flutter/flutter/pull/186116) - fix semantics order for nested Text.rich spans
+- [#186329](https://github.com/flutter/flutter/pull/186329) - disable spell check for obscured text
+
+Merged into **[warpdotdev/warp](https://github.com/warpdotdev/warp/pulls?q=is%3Apr+author%3Agabrimatic+is%3Amerged)**:
+
+- [#10174](https://github.com/warpdotdev/warp/pull/10174) - forward CLI agent env vars into WSL
+- [#10178](https://github.com/warpdotdev/warp/pull/10178) - reserve titlebar space for window controls
+
 ## Now
+
+*Updated July 2026.*
 
 - Building safer digital identity at **[Affinidi](https://www.affinidi.com/)** and safer everyday journeys at **[City-Flock](https://www.city-flock.de/en)**
 - Building local AI tools around MLX, voice, and on-device inference
