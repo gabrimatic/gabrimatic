@@ -57,10 +57,16 @@ Fixes I've landed in the tools I build on.
 
 Merged into **[flutter/flutter](https://github.com/flutter/flutter/pulls?q=is%3Apr+author%3Agabrimatic+is%3Amerged)**:
 
+- [#185789](https://github.com/flutter/flutter/pull/185789) - tolerate floating-point rounding in the `paintImage` center-slice assertion
+- [#186993](https://github.com/flutter/flutter/pull/186993) - fix the `NestedScrollView` example crash when switching desktop tabs
+- [#186348](https://github.com/flutter/flutter/pull/186348) - support custom `BoxBorder` animation in `BoxDecoration`
+- [#185791](https://github.com/flutter/flutter/pull/185791) - recognize `package:stack_trace` async-gap markers as asynchronous suspension
 - [#185793](https://github.com/flutter/flutter/pull/185793) - fix an OverlayPortal owner-mismatch crash inside deferred-mount parents like Table
 - [#185875](https://github.com/flutter/flutter/pull/185875) - stop the Cubic transform looping on out-of-range input
 - [#186116](https://github.com/flutter/flutter/pull/186116) - fix semantics order for nested Text.rich spans
 - [#186329](https://github.com/flutter/flutter/pull/186329) - disable spell check for obscured text
+
+On 26 August 2026, [#185789](https://github.com/flutter/flutter/pull/185789) reached the tip of Flutter's `master` branch. The official repository homepage showed `gabrimatic` as its latest contributor; the temporary state is preserved in [two independent web archives](https://gabrimatic.github.io/flutter-sdk-contributions/).
 
 Merged into **[warpdotdev/warp](https://github.com/warpdotdev/warp/pulls?q=is%3Apr+author%3Agabrimatic+is%3Amerged)**:
 
