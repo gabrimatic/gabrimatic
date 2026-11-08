@@ -4,7 +4,7 @@
 
 # Hi, I'm Soroush 👋
 
-I'm a senior software engineer in Berlin. I build mobile apps and AI tools, with a focus on local inference, voice, and coding agents.
+I'm Soroush Yousefpour (gabrimatic), a senior software engineer in Berlin. I build mobile apps and AI tools, with a focus on local inference, voice, and coding agents.
 
 I started with native Android and iOS development and have worked with Flutter in production since 2019.
 
@@ -18,9 +18,11 @@ I started with native Android and iOS development and have worked with Flutter i
 
 ## 🧩 Flutter and Dart
 
-### [Contributions to Flutter](https://github.com/flutter/flutter/pulls?q=is%3Apr+author%3Agabrimatic)
+### [Contributions to Flutter](https://www.gabrimatic.info/flutter-sdk)
 
-I've contributed fixes and improvements to Flutter's rendering, animation, and accessibility code.
+In April 2026 I started fixing Flutter itself. Not a package around it: the framework every Flutter app runs on. I've contributed fixes and improvements to Flutter's rendering, animation, and accessibility code.
+
+Everything that landed is here, newest first: [gabrimatic.info/flutter-sdk](https://www.gabrimatic.info/flutter-sdk). The pull requests themselves: [flutter/flutter](https://github.com/flutter/flutter/pulls?q=is%3Apr+author%3Agabrimatic).
 
 ### Apps and packages
 
@@ -47,4 +49,4 @@ I've contributed fixes and improvements to Flutter's rendering, animation, and a
 
 I'm into photography, books, and cinema, especially film theory and storytelling. I spent two years working in bookstores.
 
-[Website](https://gabrimatic.info) · [LinkedIn](https://linkedin.com/in/gabrimatic) · [Writing](https://medium.com/@gabrimatic) · [Photography](https://500px.com/p/gabrimatic)
+[Website](https://www.gabrimatic.info) · [LinkedIn](https://linkedin.com/in/gabrimatic) · [Writing](https://medium.com/@gabrimatic) · [Photography](https://500px.com/p/gabrimatic)
