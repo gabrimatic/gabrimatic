@@ -4,7 +4,7 @@
 
 # Hi, I'm Soroush 👋
 
-I'm a senior software engineer and tech lead in Berlin. I build mobile apps and AI tools, with a focus on local inference, voice, and coding agents.
+I'm a senior software engineer in Berlin. I build mobile apps and AI tools, with a focus on local inference, voice, and coding agents.
 
 I started with native Android and iOS development and have worked with Flutter in production since 2019.
 
